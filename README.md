@@ -6,7 +6,7 @@ TMI angelscript plugin providing a bank of 40+ ImGui themes, taken from the [ImT
 
 # Download
 
-Simply go to the [release](https://github.com/adrien-obrecht/TmiUiThemes/releases/tag/Release) tab to downloa the `themes.as` fiel, and put it inside your `TMInterface/Plugins` folder.
+Simply download the zip file [here]([https://github.com/adrien-obrecht/TmiUiThemes/releases/tag/Release](https://github.com/adrien-obrecht/TmiUiThemes/releases/download/V1.1.0/UiThemes.zip)) and dezip it inside your `TMInterface/Plugins` folder.
 
 # Adding a theme / contributing
 
